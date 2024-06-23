@@ -24,7 +24,7 @@ I'm RudraPratapDev, a passionate learner and aspiring developer currently pursui
 ## Connect with Me:
 
 - **GitHub**: https://github.com/RudraPratapDev
-- **LinkedIn**: https://www.linkedin.com/in/rudra-pratap-singh-tomar-0a637228b/
+- **LinkedIn**: https://www.linkedin.com/in/rudra-it/
 
 
 Let's Code Together! 💻
